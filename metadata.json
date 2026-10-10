@@ -1,0 +1,6 @@
+{
+  "name": "AI-CLINTUTOR — Adaptive Clinical-Skills Tutor",
+  "description": "Practice clinical reasoning and build confidence with fictional case-based exercises, progressive hints, rubric-based feedback, approved-source explanations, and personalized adaptive practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
